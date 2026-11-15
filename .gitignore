@@ -1,0 +1,6 @@
+/chat-data/
+/server
+/client
+*.o
+__pycache__/
+*.py[cod]
